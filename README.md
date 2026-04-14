@@ -16,5 +16,5 @@ View full project:
 - Full report: report.html
 - Code: code.html
 
-View dataset:
+View dataset (particularly the "Advanced.csv" file):
 https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats
