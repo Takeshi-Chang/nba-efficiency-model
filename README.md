@@ -13,6 +13,5 @@ Results:
 - RMSE reduced from 4.61 → 3.95
 
 View full project:
-- Overview: index.html
 - Full report: report.html
 - Code: code.html
